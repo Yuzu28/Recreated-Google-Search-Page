@@ -1,0 +1,80 @@
+
+
+img{
+    width: 650px;
+}
+
+.search{
+    padding-top: 100px;
+    
+}
+
+form { 
+    /* margin: 0 auto; 
+    width:250px;
+     */
+
+     text-align: center;
+     margin-left: 50px;
+    
+     
+    }
+
+
+input[type='text'] {
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/716px-Google_mic.svg.png");
+        background-position: bottom 7px right 5px;
+        background-repeat: no-repeat;
+        background-size: 15px;
+        left: 10px;
+        border: 1px solid lightgray;
+
+    }
+
+input{
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    margin-left: 5px;
+    padding: 8px;
+      
+    /* move text down */
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    width: 150px;
+    border-radius: 10px;
+
+}
+
+a{
+    color: grey;
+    text-decoration: none;
+    font-size: 14px; 
+    font-weight: 100px;
+    font-family: arial,sans-serif;
+    font-weight: bold;
+    
+}
+ul{
+    padding-top: 10px;
+
+}
+
+
+
+.click{
+    text-align: center;
+}
+
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative;
+    top: 90px;
+    left: 10px;
+    
+  }
